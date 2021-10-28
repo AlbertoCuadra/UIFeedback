@@ -1,7 +1,7 @@
 # UIFeedback
 ![last modified](https://img.shields.io/github/last-commit/AlbertoCuadra/UIFeedback)
 
-Routine to create an App to get Feedback from your users/customers.
+Routine to create an object to get Feedback from your users/customers.
 
 
 <p align="left">
