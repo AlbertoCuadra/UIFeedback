@@ -3,6 +3,11 @@
 
 Routine to create an App to get Feedback from your users/customers.
 
+
+<p align="left">
+    <img src="https://github.com/AlbertoCuadra/UIFeedback/blob/master/images/snapshot.svg" width="500">
+</p>
+
 ## Getting started
 
 To keep the source email, source password, and recipients secure, encrypt the app by following this guide:
