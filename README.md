@@ -5,7 +5,7 @@ Routine to create an object to get Feedback from your users/customers.
 
 
 <p align="left">
-    <img src="https://github.com/AlbertoCuadra/UIFeedback/blob/master/images/snapshot.svg" width="500">
+    <img src="https://github.com/AlbertoCuadra/UIFeedback/blob/main/images/snapshot.svg" width="500">
 </p>
 
 ## Getting started
