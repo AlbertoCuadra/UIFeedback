@@ -16,5 +16,5 @@ To keep the source email, source password, and recipients secure, encrypt the ap
 - Create a new @gmail just for this purpose
 - Use the same recipient as the source email (optional)
 
-## Author:
-- Alberto  Cuadra Lara
+## Developer:
+**[Alberto Cuadra-Lara](https://acuadralara.com/)**
