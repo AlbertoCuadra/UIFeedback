@@ -2,7 +2,7 @@
 [![View UIFeedback on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://es.mathworks.com/matlabcentral/fileexchange/101228-uifeedback)
 ![last modified](https://img.shields.io/github/last-commit/AlbertoCuadra/UIFeedback)
 
-Generate an object to get Feedback from your users/customers.
+Generate a MATLAB-GUI to get Feedback from your users/customers.
 
 
 <p align="left">
